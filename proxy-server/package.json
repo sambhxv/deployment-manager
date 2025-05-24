@@ -1,0 +1,17 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sambhav Saxena",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@prisma/client": "^6.2.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "http-proxy": "^1.18.1"
+  }
+}
